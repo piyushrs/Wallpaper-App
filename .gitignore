@@ -1,2 +1,2 @@
 .env
-.downloader.ipynb
+*.ipynb
