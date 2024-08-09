@@ -19,4 +19,3 @@ This script fetches a random wallpaper from Unsplash and sets it as the desktop 
 
 ## Note
 - This script is currently designed for Windows and uses the `ctypes` library to set the wallpaper. Modify the `SystemParametersInfoW` call for other operating systems.
-- The script assumes the presence of a `wallpaper.png` file in the working directory.
